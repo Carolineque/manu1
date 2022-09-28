@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=EB+Garamond:ital@1&family=Fira+Sans&family=Oswald&display=swap');
+main{ padding: 300px;
+    margin-top: -200px;
+}
+body{
+    background-image:url(https://64.media.tumblr.com/2febd4bbf974c28444fa0bb3ab9fbcd1/86ba4fbf7e29914f-0f/s400x600/5e920def143526a4e51db2e1c9a2430f63dd5ef2.gif);
+    background-position: center;
+    background-size: cover;
+    }
+h1{ text-align: center;
+    padding: 20px;
+    font-size: 48pt;
+    color: blue;
+    font-family: 'Oswald',sans-serif;
+}
+h3{ margin-bottom: 80px;
+    margin-top: -60px;
+    font-size: 28px;
+    text-align: center;
+    font-family: 'EB Garamond', sans-serif;
+  }
+h5{ margin: 30px;
+    font-size: 18pt;
+    color:blue;
+    font-family: 'Oswald', sans-serif;
+    }
+.solid {
+        border-top: 4px solid;
+        color: blue;
+      }
+p{ 
+    margin-top: 20px;
+}
+.myDiv{ width: 500px;
+        font-family:'Fira sans',sans-serif;
+        text-align: left;
+}
+.theDiv{ width: 500px;
+        font-family:'Fira sans',sans-serif;
+         margin-left: 400px;
+}
+.itssolid{ border-top: 2.5px solid;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            color:blue; 
+        }
+.andDiv{ font-family: 'EB Garamond',sans-serif;
+        font-size: 24pt;
+        width: 700px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        text-align: center;
+        margin-left: 100px;
+}
+.finaldiv{ font-family:'Fira sans',sans-serif;
+}
+h6{ 
+    font-size: 48pt;
+    color:blue;
+    font-family: 'Oswald', sans-serif;}
+
+.myDiv-child{ font-family: 'Oswald', sans-serif;
+                font-size: 24pt;
+                width: 350px;
+                color:tomato;
+                background-color: yellow;
+}
+.resdiv{ font-family:'fira sans';
+    color: blue;
+    font-size: 14pt;
+    width: 600px;
+    text-align: left;
+    background-color: yellow;
+    margin-top:-100px;
+}
